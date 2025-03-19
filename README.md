@@ -15,6 +15,12 @@
 
 <h2>Como Usar 🚀</h2>
 
+<h3> Teste ele online ✨ </h3>
+
+https://challenge-amigo-secreto-roan-six.vercel.app/
+
+ou siga os passo abaixo.
+
 <h3>Pré-requisitos</h3>
 
 <ul>
